@@ -1,5 +1,5 @@
 {
-    "name": "naoned/pomm-profiler-service-provider",
+    "name": "pomm-project/pomm-profiler-service-provider",
     "type": "library",
     "description":  "Pomm Profiler Service Provider for the Silex 1.x microframework.",
     "keywords": ["silex", "pomm"],
